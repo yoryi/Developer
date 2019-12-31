@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/Developer/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Developer/static/js/main.4c72d318.chunk.js",
-    "main.js.map": "/Developer/static/js/main.4c72d318.chunk.js.map",
+    "main.css": "/Developer/static/css/main.a449c373.chunk.css",
+    "main.js": "/Developer/static/js/main.f1c72643.chunk.js",
+    "main.js.map": "/Developer/static/js/main.f1c72643.chunk.js.map",
     "runtime-main.js": "/Developer/static/js/runtime-main.3cc147f8.js",
     "runtime-main.js.map": "/Developer/static/js/runtime-main.3cc147f8.js.map",
-    "static/js/2.9ee1f2fa.chunk.js": "/Developer/static/js/2.9ee1f2fa.chunk.js",
-    "static/js/2.9ee1f2fa.chunk.js.map": "/Developer/static/js/2.9ee1f2fa.chunk.js.map",
+    "static/js/2.1746a27e.chunk.js": "/Developer/static/js/2.1746a27e.chunk.js",
+    "static/js/2.1746a27e.chunk.js.map": "/Developer/static/js/2.1746a27e.chunk.js.map",
     "index.html": "/Developer/index.html",
-    "precache-manifest.9a9daacbb11af55bb71939915d7b1d84.js": "/Developer/precache-manifest.9a9daacbb11af55bb71939915d7b1d84.js",
+    "precache-manifest.b5a23450621e571220e6f6146a742a17.js": "/Developer/precache-manifest.b5a23450621e571220e6f6146a742a17.js",
     "service-worker.js": "/Developer/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/Developer/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.9ee1f2fa.chunk.js.LICENSE": "/Developer/static/js/2.9ee1f2fa.chunk.js.LICENSE",
-    "static/media/logo.svg": "/Developer/static/media/logo.5d5d9eef.svg"
+    "static/css/main.a449c373.chunk.css.map": "/Developer/static/css/main.a449c373.chunk.css.map",
+    "static/js/2.1746a27e.chunk.js.LICENSE": "/Developer/static/js/2.1746a27e.chunk.js.LICENSE",
+    "static/media/basedatos.svg": "/Developer/static/media/basedatos.41e0c454.svg",
+    "static/media/btn.svg": "/Developer/static/media/btn.e07e7f77.svg",
+    "static/media/diseño.svg": "/Developer/static/media/diseño.8d987670.svg",
+    "static/media/etiqueta.svg": "/Developer/static/media/etiqueta.1ae08c41.svg",
+    "static/media/ilustracion.png": "/Developer/static/media/ilustracion.d91aba35.png",
+    "static/media/letras.png": "/Developer/static/media/letras.a43e3e91.png",
+    "static/media/permisos.svg": "/Developer/static/media/permisos.8d6ed02e.svg",
+    "static/media/pregunta.svg": "/Developer/static/media/pregunta.d71d6816.svg",
+    "static/media/programacion.svg": "/Developer/static/media/programacion.237a5ea7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3cc147f8.js",
-    "static/js/2.9ee1f2fa.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.4c72d318.chunk.js"
+    "static/js/2.1746a27e.chunk.js",
+    "static/css/main.a449c373.chunk.css",
+    "static/js/main.f1c72643.chunk.js"
   ]
 }
