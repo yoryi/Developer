@@ -8,8 +8,6 @@ import Bibliografia from './../assets/bibliografia.svg';
 
 //imagenes png
 import perfil from './../assets/perfil.png';
-import ilustracion from './../assets/ilustracion.png';
-import ilustracion2 from './../assets/ilustracion2.png';
 
 //ilustracion moderna
 import ilustracion_moderna from './../assets/ilustracion_moderna.svg';
@@ -49,7 +47,7 @@ function App() {
           </div>
         </nav>
 
-        <img src={ilustracion_moderna} style={{ width: '50%', marginTop: '-43%', marginRight: '-3%' }} alt="logo" />
+        <img src={ilustracion_moderna} style={{ width: '50%', marginTop: '-43%', marginRight: '-1.1%' }} alt="logo" />
 
         <div class="row" style={{ textAlign: 'center', flexDirection: 'row', height: '60vh', alignContent: 'center', marginTop: '-20%' }}>
           <div class="col">

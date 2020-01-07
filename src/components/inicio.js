@@ -17,7 +17,6 @@ import ilustracion_moderna from './../assets/ilustracion_moderna.svg';
 
 //imagenes png
 import texto from './../assets/letras.png';
-import ilustracion from './../assets/ilustracion.png';
 import ilustracion_m from './../assets/ilustracion_m.png';
 
 //css
@@ -43,7 +42,7 @@ function App() {
 
 
           <div class="col-lg-7 col-sm-12 d-none d-sm-none d-md-block" style={{ textAlign: 'end', }} >
-            <img src={ilustracion_moderna} style={{ width: '100%', marginTop: '-30%', marginRight: '-2%' }} alt="logo" />
+            <img src={ilustracion_moderna} style={{ width: '100%', marginTop: '-30%', marginRight: '-2.0%' }} alt="logo" />
           </div>
         </div>
 
