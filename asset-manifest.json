@@ -1,26 +1,24 @@
 {
   "files": {
     "main.css": "/Developer/static/css/main.91b7c446.chunk.css",
-    "main.js": "/Developer/static/js/main.57c738f5.chunk.js",
-    "main.js.map": "/Developer/static/js/main.57c738f5.chunk.js.map",
+    "main.js": "/Developer/static/js/main.35ad0b0c.chunk.js",
+    "main.js.map": "/Developer/static/js/main.35ad0b0c.chunk.js.map",
     "runtime-main.js": "/Developer/static/js/runtime-main.3cc147f8.js",
     "runtime-main.js.map": "/Developer/static/js/runtime-main.3cc147f8.js.map",
-    "static/js/2.7d24f907.chunk.js": "/Developer/static/js/2.7d24f907.chunk.js",
-    "static/js/2.7d24f907.chunk.js.map": "/Developer/static/js/2.7d24f907.chunk.js.map",
+    "static/js/2.eeb7093f.chunk.js": "/Developer/static/js/2.eeb7093f.chunk.js",
+    "static/js/2.eeb7093f.chunk.js.map": "/Developer/static/js/2.eeb7093f.chunk.js.map",
     "index.html": "/Developer/index.html",
-    "precache-manifest.785c68c25f815ca77176e34cefd89a10.js": "/Developer/precache-manifest.785c68c25f815ca77176e34cefd89a10.js",
+    "precache-manifest.da152cdecb5e1df9af0545d5ca9469d2.js": "/Developer/precache-manifest.da152cdecb5e1df9af0545d5ca9469d2.js",
     "service-worker.js": "/Developer/service-worker.js",
     "static/css/main.91b7c446.chunk.css.map": "/Developer/static/css/main.91b7c446.chunk.css.map",
-    "static/js/2.7d24f907.chunk.js.LICENSE": "/Developer/static/js/2.7d24f907.chunk.js.LICENSE",
+    "static/js/2.eeb7093f.chunk.js.LICENSE": "/Developer/static/js/2.eeb7093f.chunk.js.LICENSE",
     "static/media/basedatos.svg": "/Developer/static/media/basedatos.41e0c454.svg",
     "static/media/bibliografia.svg": "/Developer/static/media/bibliografia.59f873f4.svg",
     "static/media/btn.svg": "/Developer/static/media/btn.d70c4d7e.svg",
     "static/media/contacto.svg": "/Developer/static/media/contacto.86fb8722.svg",
     "static/media/diseño.svg": "/Developer/static/media/diseño.8d987670.svg",
     "static/media/etiqueta.svg": "/Developer/static/media/etiqueta.1ae08c41.svg",
-    "static/media/ilustracion.png": "/Developer/static/media/ilustracion.d91aba35.png",
     "static/media/ilustracion2.svg": "/Developer/static/media/ilustracion2.75e51671.svg",
-    "static/media/ilustracion2.png": "/Developer/static/media/ilustracion2.c8625f0f.png",
     "static/media/ilustracion_m.png": "/Developer/static/media/ilustracion_m.2219c4b6.png",
     "static/media/ilustracion_moderna.svg": "/Developer/static/media/ilustracion_moderna.1e33af8d.svg",
     "static/media/letras.png": "/Developer/static/media/letras.a43e3e91.png",
@@ -33,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3cc147f8.js",
-    "static/js/2.7d24f907.chunk.js",
+    "static/js/2.eeb7093f.chunk.js",
     "static/css/main.91b7c446.chunk.css",
-    "static/js/main.57c738f5.chunk.js"
+    "static/js/main.35ad0b0c.chunk.js"
   ]
 }
