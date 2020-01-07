@@ -1,14 +1,13 @@
 import React from 'react';
 
-//componentes
-import Inicio from'./components/inicio';
+import Router from './router/Router';
 
 function App() {
-return (
-  
-<Inicio/>
+    return (
 
-);
+        <Router />
+
+    );
 }
 
 export default App;
